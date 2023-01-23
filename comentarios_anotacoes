@@ -29,7 +29,7 @@ ________________________________________________________________________________
     }
   
     html.classList.toggle('light') => essa função toggle funciona como o codigo acima, para nao
-    precisarmos usar esse codigo, nas propriedades de classList tem essa função toggle.
+    precisarmos usar esse codigo do if, nas propriedades de classList tem essa função toggle.
   }
 ____________________________________________________________________________________
    Git
