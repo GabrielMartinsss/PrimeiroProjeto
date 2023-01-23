@@ -16,8 +16,8 @@ function toggleMode() {
 
   //substituir alt da img
   if (html.classList.contains('light')) {
-    img.setAttribute('alt','foto de perfil, imagem de Krampus, light mode')
+    img.setAttribute('alt','foto de perfil, imagem de GabrielMartinsss, light mode')
   } else {
-    img.setAttribute('alt','Foto de perfil, imagem de Krampus, dark mode')
+    img.setAttribute('alt','Foto de perfil, imagem de GabrielMartinsss, dark mode')
   }  
 }
